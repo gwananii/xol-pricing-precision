@@ -1,7 +1,0 @@
-# Python 3.10 or later. Tested with Python 3.13 (Linux) and Python 3.14 (Windows 11, Anaconda).
-# Versions below are those used in the tested runs; newer versions should also work.
-numpy>=2.4
-pandas>=3.0
-rdata>=1.1
-matplotlib>=3.11   # figures only
-pillow>=12.0       # TIFF output for the figures only
