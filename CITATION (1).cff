@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite them as below."
+title: >-
+  Code and results for "How Precisely Can an Excess-of-Loss Layer Be Priced?
+  A Precision Rule for Peaks-over-Threshold Premiums"
+type: software
+authors:
+  - family-names: Gwanani
+    given-names: Isaac
+    affiliation: "Department of Mathematics and Computational Science, University of Zimbabwe"
+  - family-names: Dhliwayo
+    given-names: Lawrence
+    affiliation: "Department of Mathematics and Computational Science, University of Zimbabwe"
+  - family-names: Nadarajah
+    given-names: Saralees
+    affiliation: "Department of Mathematics, University of Manchester"
+  - family-names: Makurumidze
+    given-names: Shepard
+    affiliation: "Faculty of Business Management Sciences and Economics, University of Zimbabwe"
+version: 1.1.0
+date-released: "2026-11-24"
+repository-code: "https://github.com/gwananii/xol-pricing-precision"
+license: MIT
+keywords:
+  - excess-of-loss reinsurance
+  - extreme value theory
+  - generalized Pareto distribution
+  - layer premium
+  - credibility
